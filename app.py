@@ -49,8 +49,4 @@ if  __name__ == '__main__':
 
 
 
-pip3 install flask
-pip3 install flask-ask
-pip3 install unicode --proxy 190.152.4.54:65301
-pip3 install requests
-pip3 install simplejson
+
